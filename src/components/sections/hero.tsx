@@ -24,7 +24,10 @@ export function Hero() {
               View Work
             </Button>
 
-            <Button variant="outline">
+            <Button
+              variant="outline"
+              className="border-white/15 bg-transparent text-zinc-300 hover:bg-transparent hover:text-white"
+            >
               Let&apos;s Talk
             </Button>
           </div>
