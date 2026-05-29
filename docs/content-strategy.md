@@ -28,7 +28,7 @@ Visitors should understand:
 
 The portfolio should communicate:
 
-> I help teams and businesses transform complex ideas into scalable digital products through systems thinking, frontend architecture, and execution.
+> I help teams and businesses transform complex ideas into thoughtful digital experiences through systems thinking, product thinking, design, and AI assisted development.
 
 ---
 
@@ -79,19 +79,15 @@ View Experience
 
 ## What Engineers Care About
 
-* Architecture
-* Code quality
-* Maintainability
-* Systems thinking
-* Technical decisions
-
----
+- Design Systems
+- Product Thinking
+- UX Decisions
+- AI Assisted Development
+- Cross Functional Collaboration
 
 ## Engineer Hero Example
 
-Frontend architect focused on maintainable systems and exceptional user experiences.
-
----
+Exploring the space between design and engineering through systems thinking and modern development tools.
 
 ## Engineer CTA
 

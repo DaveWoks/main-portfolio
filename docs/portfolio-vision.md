@@ -11,7 +11,7 @@ Create a premium portfolio that demonstrates:
 * Business Impact
 * Execution Excellence
 
-The portfolio should communicate how I think, not simply what I have built.
+The portfolio should communicate how I think, how I design, and how I am evolving into a design engineer through modern AI assisted development.
 
 ---
 
@@ -27,10 +27,10 @@ Not:
 
 The portfolio should position me as:
 
-* Frontend Engineer
-* Engineering Leader
-* Product Builder
+* Designer
+* Product Thinker
 * Systems Thinker
+* AI Assisted Builder
 
 ---
 
